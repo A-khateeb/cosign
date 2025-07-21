@@ -7,7 +7,7 @@ This is the versioning policy regarding the stability of Cosign, both the API an
 **tl;dr (API):** no guarantees at all (for now).
 
 Principles:
-
+- Test 123
 - Provide well-versioned, very reliable tools/libraries that people can write
   scripts/code against.
 - Provide places for experimentation and rapid-development, not covered under
