@@ -1,5 +1,5 @@
 # Cosign Versioning Policy
-
+sssss Add new line 
 This is the versioning policy regarding the stability of Cosign, both the API and CLI.
 
 **tl;dr (CLI):** semver for specific behaviors, but with deprecations.
